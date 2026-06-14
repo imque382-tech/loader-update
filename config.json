@@ -1,6 +1,6 @@
 {
   "loader_version": "1.0.6",
-  "loader_update_url": "https://raw.githubusercontent.com/imque382-tech/loader-config/main/LoaderUpdate.apk",
+  "loader_update_url": "https://github.com/imque382-tech/loader-update/raw/refs/heads/main/app-release.apk",
   "urls": {
     "Global": "http://46.19.68.216/NeroholeCheat~GL~4.4.apk",
     "Korean": "http://46.19.68.216/NeroholeCheat~KR~4.4.apk",
